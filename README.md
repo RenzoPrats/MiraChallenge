@@ -1,4 +1,4 @@
-# Mira Software Engineering Challenge
+# WeatherWiseBot
 This program is a chatbot that informs users whether the weather is suitable for going outside. It provides weather information based on a user's specified location. 
 
 You can get weather information by making a POST request to the following endpoint:
